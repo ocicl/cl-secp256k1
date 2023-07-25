@@ -1,0 +1,10 @@
+* cl-secp256k1
+
+Common Lisp bindings for bitcoin-core/secp256k1
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/dvush/cl-secp256k1.git   |
+| commit  | {"messa  |
+| systems | cl-secp256k1 |
+|---------+-------------------------------------------|
+
