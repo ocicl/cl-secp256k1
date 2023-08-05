@@ -4,7 +4,7 @@ Common Lisp bindings for bitcoin-core/secp256k1
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/dvush/cl-secp256k1.git   |
-| commit  | {"messa  |
+| commit  | 1fa743a  |
 | systems | cl-secp256k1 |
 |---------+-------------------------------------------|
 
